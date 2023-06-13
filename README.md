@@ -1,6 +1,6 @@
 # Plotly-Notes
 
-📊 As a data enthusiast, I am constantly on the lookout for cutting-edge tools to create stunning visualizations, and Plotly has truly blown me away. 🌟 It's a game-changer for anyone who wants to make their data come alive with beautiful and interactive plots📈.
+📊 As a data enthusiast, I am constantly on the lookout for cutting-edge tools to create stunning visualizations, and Plotly has truly blown me away. 🌟 It's a game-changer for anyone who wants to make their data come alive with beautiful and interactive plots📈📉📊.
 
 💡 What sets Plotly apart is its intuitive and user-friendly interface that makes it a breeze to create visually captivating charts, graphs, and dashboards. 📈 Whether you're a data scientist, analyst, or simply someone who wants to make data-driven decisions, Plotly has got you covered.
 
